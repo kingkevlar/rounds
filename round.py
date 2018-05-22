@@ -1,6 +1,3 @@
-from __future__ import division
-import math
-
 def round_pain(real_efforts, pining):
 	assert(len(real_efforts)==len(pining))
 	pain = 0
