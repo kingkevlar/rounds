@@ -7,7 +7,6 @@ def round_pain(real_efforts, pining):
 			pain += e**2
 	return pain
 
-
 real_effort = [0.3, 0.05, 0.18]
 pining 		= [0.2, 0.25, 0.02]
 print round_pain(real_effort, pining)
